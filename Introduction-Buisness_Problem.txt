@@ -1,22 +1,10 @@
-In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is 
-trying to start their own business, where would you recommend that they setup their office?
-These are just a couple of many ideas and problems that can be solved using location data in addition to other datasets. No matter what you decide
-to do, make sure to provide sufficient justification of why you think what you want
-to do or solve is important and why would a client or a group of people be interested in your project.
+INTRODUCTION / BUISNESS PROBLEM
 
-1. Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute.
-Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure 
-that you explicitly describe your audience and why they would care about your problem.
+The problem that I will solve is related with restaurants in New York. Someone is looking to open a reastaurant and I need to recommend where to
+open it and what kind of reastaurant should it be. First I need to emphasize that client wants to open restaurant on Manhattan so I need to find 
+only restaurants on Manhattan using the Foursquare location data for analysis. I will give a proposal to client where it would be the best to open
+certain type of restaurant, so my analysis will be about type of food that restaurant will be serving and place where it should be opened. I will
+do analysis so that I will recommend client to open, for example, an italian restaurant in area where there is not any good rated italian restaurant 
+so that it has more chances for success in the beginning.
 
-This submission will eventually become your Introduction/Business Problem section in your final report. So I recommend that you push the 
-report (having your Introduction/Business Problem section only for now) to your Github repository and submit a link to it.
-
-
-
-
-2. Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare 
-location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. 
-So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
-
-This submission will eventually become your Data section in your final report. So I recommend that you push the report (having your Data section) to 
-your Github repository and submit a link to it.
+ 
