@@ -1,0 +1,5 @@
+DATA
+
+I will use Foursquare location data for New York restaurants. First I will find New York latitude and longitude and using that information 
+,and client ID and client secret, find restaurants in New York (Manhattan). After that I will do analysis of some most famous type of restaurants
+like italian, chinese and so on, and find their tips. According to that information, I will recommend where to open the restaurant.
